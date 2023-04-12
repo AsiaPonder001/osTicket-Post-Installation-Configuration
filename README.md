@@ -23,7 +23,18 @@ to configure roles in the admin panel.
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
 <P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 3
 <P><img src="https://i.imgur.com/PkQsQak.png"/></P> 4
+ 
+ <br/> 
+ 
+ <br/>
+ 
+Configure the Departments
+
+Admin Panel -> Agents -> Departments
+For testing purposes create the department: System Administrators
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
+ <br/>
+ <br/>
 <p><img src="https://i.imgur.com/K83lOGT.png"/></P> 6
 <P><img src="https://i.imgur.com/qDKmdkB.png"/></p> 7
  <br/>
