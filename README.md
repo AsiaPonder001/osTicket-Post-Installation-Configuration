@@ -1,5 +1,6 @@
 <p align="center">
 <img src="https://i.imgur.com/y8PA27H.png"/>
+<img src="https://i.imgur.com/qUFmykU.png"/>
 </p>
 
 <h2>osTicket Main Configuration<h2/>
