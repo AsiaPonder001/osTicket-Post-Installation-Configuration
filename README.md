@@ -1,6 +1,28 @@
 <p align="center">
 <img src="https://i.imgur.com/y8PA27H.png"/></P>
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
+<img src="https://i.imgur.com/  .png"/></P>
+<P><img src="https://i.imgur.com/  .png"/></p>
 
 <h2>osTicket Main Configuration<h2/>
 In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
