@@ -6,24 +6,18 @@
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
 <p><img src="https://i.imgur.com/K83lOGT.png"/></P> 6
 <P><img src="https://i.imgur.com/qDKmdkB.png"/></p> 7
-<P><img src="https://i.imgur.com/qUFmykU.png"/></p> UNKNOWN
-<p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 8
+<P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
+<p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
+<P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
 
 
-
-
-
-
-
-
+<p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
-<img src="https://i.imgur.com/  .png"/></P>
+<p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
-<img src="https://i.imgur.com/  .png"/></P>
+<p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
-<img src="https://i.imgur.com/  .png"/></P>
-<P><img src="https://i.imgur.com/  .png"/></p>
-<img src="https://i.imgur.com/  .png"/></P>
+<p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
 <img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
