@@ -1,5 +1,26 @@
 <p align="center">
+ 
+ <h2>osTicket Main Configuration<h2/>
+In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
+<br />
+<br />
+
+<h2>Technologies and Environments Used<h2/>
+
+- PHP 
+- osTicket (Help Desk Ticketing System)
+<br />
+<br />
+
+
+<h2>Main Steps<h2/>
+
+Step 1. Configure roles in the admin panel.
+Go to:
+- Admin Panel -> Agents -> Roles
+ 
 <img src="https://i.imgur.com/y8PA27H.png"/></P> 1
+
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
 <P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 3
 <P><img src="https://i.imgur.com/PkQsQak.png"/></P> 4
@@ -24,24 +45,7 @@
 <p><img src="https://i.imgur.com/IMqpNvZ.png"/></P> 23
 <P><img src="https://i.imgur.com/V1nAwrN.png"/></p> 24
 
-<h2>osTicket Main Configuration<h2/>
-In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
-<br />
-<br />
 
-<h2>Technologies and Environments Used<h2/>
-
-- PHP 
-- osTicket (Help Desk Ticketing System)
-<br />
-<br />
-
-
-<h2>Main Steps<h2/>
-
-Step 1. Configure roles in the admin panel.
-Go to:
-- Admin Panel -> Agents -> Roles
 - For testing purposes create the role: Supreme Admin and assign permissions
 
 <p align="center">
