@@ -28,11 +28,13 @@ to configure roles in the admin panel.
  
  <br/>
  
-<h2 >Configure the Departments <h2/>
 
-<a>Admin Panel > Agents > Departments > Type: System administrators for department name <a/>
 <br/>
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
+ 
+ <h2 >Configure the Departments <h2/>
+
+<a>Admin Panel > Agents > Departments > Type: System administrators for department name <a/>
  <br/>
  <br/>
 <p><img src="https://i.imgur.com/K83lOGT.png"/></P> 6
