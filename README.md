@@ -10,10 +10,9 @@
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
+<p><img src="https://i.imgur.com/N6Jrq0b.png"/></P> 12
 
 
-
-<p><img src="https://i.imgur.com/  .png"/></P>
 <p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
 <p><img src="https://i.imgur.com/  .png"/></P>
