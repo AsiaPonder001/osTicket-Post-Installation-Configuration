@@ -1,5 +1,7 @@
 <p align="center">
  
+<img src="https://i.imgur.com/y8PA27H.png"/></P> 1
+
  <h2>osTicket Main Configuration<h2/>
 In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
 <br />
@@ -18,8 +20,7 @@ In this tutorial I go through the steps to configure and setup osTicket after in
 Step 1. Configure roles in the admin panel.
 Go to:
 - Admin Panel -> Agents -> Roles
- 
-<img src="https://i.imgur.com/y8PA27H.png"/></P> 1
+
 
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
 <P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 3
