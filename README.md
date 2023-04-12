@@ -26,6 +26,8 @@ to configure roles in the admin panel.
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
 <p><img src="https://i.imgur.com/K83lOGT.png"/></P> 6
 <P><img src="https://i.imgur.com/qDKmdkB.png"/></p> 7
+ <br/>
+ <br/>
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
