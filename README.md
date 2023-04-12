@@ -1,9 +1,9 @@
 <p align="center">
  
-<img src="https://i.imgur.com/y8PA27H.png"/></P> 1
+<img src="https://i.imgur.com/y8PA27H.png"/></P>
 
- <h2>osTicket Main Configuration<h2/>
-In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
+ <h2>osTicket Configuration<h2/>
+In the previous tutorial I <a href="https://github.com/AsiaPonder001/osticket-prereqs"> installed osTicket. In this tutorial I will go through the steps to configure and setup osTicket.
 <br />
 <br />
 
