@@ -12,14 +12,12 @@ In the previous tutorial I <a href="https://github.com/AsiaPonder001/osticket-pr
 - PHP 
 - osTicket (Help Desk Ticketing System)
 <br />
-<br />
-
 
 <h2>Main Steps<h2/>
 
-Step 1. Configure roles in the admin panel.
-Go to:
-- Admin Panel -> Agents -> Roles
+to configure roles in the admin panel.
+Admin Panel -> Agents -> Roles
+<h2>(*NOTE: To switch between the admin and agent panel look at the top of the page. If it says Admin panel it means you are in the Agent panel. If it reads Admin panel then you are in the Agent panel.)<h2/>
 
 
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
