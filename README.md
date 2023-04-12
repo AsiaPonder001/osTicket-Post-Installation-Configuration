@@ -11,11 +11,12 @@
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
 <p><img src="https://i.imgur.com/N6Jrq0b.png"/></P> 12
+<p><img src="https://i.imgur.com/ia1KETC.png"/></P> 13
+<P><img src="https://i.imgur.com/YE3hIKr.png"/></p> 14
+<p><img src="https://i.imgur.com/7dEX70T.png"/></P> 15
 
 
-<p><img src="https://i.imgur.com/  .png"/></P>
-<P><img src="https://i.imgur.com/  .png"/></p>
-<p><img src="https://i.imgur.com/  .png"/></P>
+
 <P><img src="https://i.imgur.com/  .png"/></p>
 <p><img src="https://i.imgur.com/  .png"/></P>
 <P><img src="https://i.imgur.com/  .png"/></p>
