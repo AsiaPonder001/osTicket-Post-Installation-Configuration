@@ -40,7 +40,7 @@ to configure roles in the admin panel.
   Configure Teams
 
 <h2>Admin Panel > Agents > Teams > Add Teams(create Level I Support and Level II Support) <h2/>
-<a> Name the team > Add a member<a/>
+<a> Name the team > Add member(s)<a/>
 
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
