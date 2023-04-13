@@ -83,9 +83,9 @@ to configure roles in the admin panel.
  <h2><a>Admin Panel > Manage > SLA<a/><h2/>
   <br/>
  
-<a>Sev-A (1 hour, 24/7)<a/>
-<a>Sev-B (4 hours, 24/7)<a/>
-<a>Sev-C (8 hours, business hours)<a/>
+<a>Sev-A (1 hour, 24/7)</a>
+<a>Sev-B (4 hours, 24/7)</a>
+<a>Sev-C (8 hours, business hours)</a>
   
 <P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
 
