@@ -24,11 +24,6 @@ to configure roles in the admin panel.
 <P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 3
 <P><img src="https://i.imgur.com/PkQsQak.png"/></P> 4
  
- <br/> 
- 
- <br/>
- 
-
 <br/>
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
  
@@ -41,6 +36,11 @@ to configure roles in the admin panel.
 <P><img src="https://i.imgur.com/qDKmdkB.png"/></p> 7
  <br/>
  <br/>
+  
+  Configure Teams
+
+<h2>Admin Panel -> Agents -> Teams<h2/>
+<a>For the purposes of testing create two teams (Level I Support, Level II Support)<a/>
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
