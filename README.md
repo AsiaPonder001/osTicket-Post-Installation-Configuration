@@ -93,7 +93,8 @@ to configure roles in the admin panel.
  
 <h2>Configure Help Topics<h2/>
 <a>Admin Panel > Manage > Help Topics<a/>
-<a>create four topics<a/>
+<h2>create four topics<h2/>
+ 
 - Business Critical Outage
 - Personal Computer Issues
 - Equipment Request
