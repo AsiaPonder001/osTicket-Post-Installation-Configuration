@@ -37,12 +37,14 @@ to configure roles in the admin panel.
  <br/>
  <br/>
   
-  Configure Teams
+ <h2> Configure Teams<h2/>
 
 <h2>Admin Panel > Agents > Teams > Add Teams(create Level I Support and Level II Support) <h2/>
 <a> Name the team > Add member(s)<a/>
 
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
+ 
+ <h2> <h2/>
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
