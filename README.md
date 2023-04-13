@@ -73,12 +73,14 @@ to configure roles in the admin panel.
 <p><img src="https://i.imgur.com/7dEX70T.png"/></P> 15
  
  
-<h2>create new user(Customers who can create a service ticket request)<h2/>
-<a>Agent Panel > Users > Add New<a/>
+<h2>Create new user(Customers who can create a service ticket request)<h2/>
+<a>Agent Panel > Users > Add User<a/>
  
 <P><img src="https://i.imgur.com/vUfVvVc.png"/></p> 16
 <p><img src="https://i.imgur.com/niz88WE.png"/></P> 17
 <P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
+
+<h2>whole city<h2/>
 <p><img src="https://i.imgur.com/Zl5SbWx.png"/></P> 19
 <P><img src="https://i.imgur.com/KOiDk1M.png"/></p> 20
 <p><img src="https://i.imgur.com/i7OChax.png"/></P> 21
