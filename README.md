@@ -82,9 +82,9 @@ to configure roles in the admin panel.
  <h2>Configure SLA (Service Level Agreements)<h2/>
  <h2><a>Admin Panel > Manage > SLA<a/><h2/>
  
-<a>Sev-A(1 hour, 24/7)</a>
-<a>Sev-B(4 hours, 24/7)</a>
-<a>Sev-C(8 hours, business hours)</a>
+<h2>Sev-A(1 hour, 24/7)<h2/>
+<h2>Sev-B(4 hours, 24/7)<h2/>
+<h2>Sev-C(8 hours, business hours)<h2/>
   
 <P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
 
