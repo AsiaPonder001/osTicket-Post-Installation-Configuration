@@ -89,9 +89,10 @@ to configure roles in the admin panel.
 <P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
 <p><img src="https://i.imgur.com/Zl5SbWx.png"/></P> 19
 <P><img src="https://i.imgur.com/KOiDk1M.png"/></p> 20
-<p><img src="https://i.imgur.com/i7OChax.png"/></P> 21
+<p><img src="https://i.imgur.com/i7OChax.png"/></P> 21 
+<P><img src="https://i.imgur.com/bliSUHL.png"/></p> 22
  
-<h2>Configure Help Topics<h2/>
+ <h2>Configure Help Topics<h2/>
 <a>Admin Panel > Manage > Help Topics<a/>
 <h2>create four topics<h2/>
  
@@ -100,7 +101,6 @@ to configure roles in the admin panel.
 - Equipment Request
 - Password Reset
  
-<P><img src="https://i.imgur.com/bliSUHL.png"/></p> 22
 <p><img src="https://i.imgur.com/IMqpNvZ.png"/></P> 23
 <P><img src="https://i.imgur.com/V1nAwrN.png"/></p> 24
 
