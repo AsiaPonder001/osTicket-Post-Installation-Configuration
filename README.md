@@ -78,9 +78,11 @@ to configure roles in the admin panel.
  
 <P><img src="https://i.imgur.com/vUfVvVc.png"/></p> 16
 <p><img src="https://i.imgur.com/niz88WE.png"/></P> 17
+ 
+ <h2><h2/>
 <P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
 
-<h2>whole city<h2/>
+
 <p><img src="https://i.imgur.com/Zl5SbWx.png"/></P> 19
 <P><img src="https://i.imgur.com/KOiDk1M.png"/></p> 20
 <p><img src="https://i.imgur.com/i7OChax.png"/></P> 21
