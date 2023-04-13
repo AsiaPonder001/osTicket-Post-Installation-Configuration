@@ -66,7 +66,7 @@ to configure roles in the admin panel.
  
 <p><img src="https://i.imgur.com/ia1KETC.png"/></P> 13
  
- <h2>and set the department<h2/>
+<h2>and set the department > check permissions > add teams<h2/>
 <P><img src="https://i.imgur.com/YE3hIKr.png"/></p> 14
 <p><img src="https://i.imgur.com/7dEX70T.png"/></P> 15
 <P><img src="https://i.imgur.com/vUfVvVc.png"/></p> 16
