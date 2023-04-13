@@ -49,17 +49,18 @@ to configure roles in the admin panel.
 <h2>Allow anyone to create tickets<h2/>
 
 <a>Admin Panel > Settings > User Settings<a/>
+ 
 <a>Check the box to Require Registration and login to create tickets<a>
  
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
  
 <h2>Configure Agents (these are the workers who will work the tickets)<h2/>
 
-<a>Admin Panel -> Agents -> Add New <a/>
+<a>Admin Panel > Agents > Add New <a/>
  
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
  
- <h2> Set the Agent password<h2/>
+ <h2>Set the Agent password<h2/>
 <p><img src="https://i.imgur.com/N6Jrq0b.png"/></P> 12
  
  <h2>and set the department<h2/>
