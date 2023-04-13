@@ -40,20 +40,30 @@ to configure roles in the admin panel.
  <h2> Configure Teams<h2/>
 
 <h2>Admin Panel > Agents > Teams > Add Teams(create Level I Support and Level II Support) <h2/>
-<a> Name the team > Add member(s)<a/>
+<a> Name the team <a/>
 
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
- 
+<a>Add member(s)<a/>
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
  
 <h2>Allow anyone to create tickets<h2/>
 
 <a>Admin Panel > Settings > User Settings<a/>
-<a>Registration Required: Require registration and login to create tickets<a>
+<a>Check the box to Require Registration and login to create tickets<a>
  
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
+ 
+<h2>Configure Agents (these are the workers who will work the tickets)<h2/>
+
+<a>Admin Panel -> Agents -> Add New <a/>
+ 
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
+ 
+ <h2> Set the Agent password<h2/>
 <p><img src="https://i.imgur.com/N6Jrq0b.png"/></P> 12
+ 
+ <h2>and set the department<h2/>
+ 
 <p><img src="https://i.imgur.com/ia1KETC.png"/></P> 13
 <P><img src="https://i.imgur.com/YE3hIKr.png"/></p> 14
 <p><img src="https://i.imgur.com/7dEX70T.png"/></P> 15
