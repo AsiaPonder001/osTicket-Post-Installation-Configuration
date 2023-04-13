@@ -44,7 +44,10 @@ to configure roles in the admin panel.
 
 <P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
  
- <h2> <h2/>
+ <h2>Allow anyone to create tickets<h2/>
+
+<a>Admin Panel > Settings > User Settings<a/>
+<a>Registration Required: Require registration and login to create tickets<a>
 <p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
 <P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
