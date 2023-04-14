@@ -20,13 +20,13 @@ Configure roles in the admin panel.
 <h2>(NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)<h2/>
 
 
-<P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
-<P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 3
-<P><img src="https://i.imgur.com/PkQsQak.png"/></P> 4
+<P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 
+<P><img src="https://i.imgur.com/dPA8Ftp.png"/></p> 
+<P><img src="https://i.imgur.com/PkQsQak.png"/></P> 
  
 <br/>
-<P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
-<p><img src="https://i.imgur.com/TlOHvtv.png"/></P> 6
+<P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 
+<p><img src="https://i.imgur.com/TlOHvtv.png"/></P> 
  
  <h2 >Configure the Departments <h2/>
 
@@ -34,8 +34,8 @@ Configure roles in the admin panel.
  <br/>
  <br/>
 
-<p><img src="https://i.imgur.com/T3gpaFW.png"/></p> also 6
-<P><img src="https://i.imgur.com/esvUrPu.png"/></p> 7
+<p><img src="https://i.imgur.com/T3gpaFW.png"/></p>
+<P><img src="https://i.imgur.com/esvUrPu.png"/></p>
  <br/>
  <br/>
   
@@ -44,9 +44,9 @@ Configure roles in the admin panel.
 <h2>Admin Panel > Agents > Teams > Add Teams(create Level I Support and Level II Support) <h2/>
 <a> Name the team <a/>
 
-<P><img src="https://i.imgur.com/qUFmykU.png"/></p> 8
+<P><img src="https://i.imgur.com/qUFmykU.png"/></p>
 <a>Add member(s)<a/>
-<p><img src="https://i.imgur.com/d0PuCVr.png"/></P> 9
+<p><img src="https://i.imgur.com/d0PuCVr.png"/></P>
  
 <h2>Allow anyone to create tickets<h2/>
 
@@ -54,32 +54,32 @@ Configure roles in the admin panel.
  
 <a>Check the box to Require Registration and login to create tickets<a>
  
-<P><img src="https://i.imgur.com/SWBqmVs.png"/></p> 10
+<P><img src="https://i.imgur.com/SWBqmVs.png"/></p>
  
 <h2>Configure Agents (these are the workers who will work the tickets)<h2/>
 
 <a>Admin Panel > Agents > Add New <a/>
  
-<P><img src="https://i.imgur.com/9ijnXxg.png"/></p> 11
+<P><img src="https://i.imgur.com/9ijnXxg.png"/></p>
  
-<p><img src="https://i.imgur.com/N6Jrq0b.png"/></P> 12
+<p><img src="https://i.imgur.com/N6Jrq0b.png"/></P>
  
 <h2>Set the Agent password<h2/>
  
-<p><img src="https://i.imgur.com/ia1KETC.png"/></P> 13
+<p><img src="https://i.imgur.com/ia1KETC.png"/></P>
  
 <h2>and set the department > check permissions > add teams<h2/>
-<P><img src="https://i.imgur.com/YE3hIKr.png"/></p> 14
+<P><img src="https://i.imgur.com/YE3hIKr.png"/></p>
 
  
-<p><img src="https://i.imgur.com/7dEX70T.png"/></P> 15
+<p><img src="https://i.imgur.com/7dEX70T.png"/></P>
  
  
 <h2>Create new user(Customers who can create a service ticket request)<h2/>
 <a>Agent Panel > Users > Add User<a/>
  
-<P><img src="https://i.imgur.com/vUfVvVc.png"/></p> 16
-<p><img src="https://i.imgur.com/niz88WE.png"/></P> 17
+<P><img src="https://i.imgur.com/vUfVvVc.png"/></p>
+<p><img src="https://i.imgur.com/niz88WE.png"/></P>
  
  <h2>Configure SLA (Service Level Agreements)<h2/>
  <h2>Admin Panel > Manage > SLA<h2/>
@@ -88,11 +88,11 @@ Configure roles in the admin panel.
 - Sev-B(4 hours, 24/7)
 - Sev-C(8 hours, business hours)
   
-<P><img src="https://i.imgur.com/cZyR9Wj.png"/></p> 18
-<p><img src="https://i.imgur.com/Zl5SbWx.png"/></P> 19
-<P><img src="https://i.imgur.com/KOiDk1M.png"/></p> 20
-<p><img src="https://i.imgur.com/i7OChax.png"/></P> 21 
-<P><img src="https://i.imgur.com/bliSUHL.png"/></p> 22
+<P><img src="https://i.imgur.com/cZyR9Wj.png"/></p>
+<p><img src="https://i.imgur.com/Zl5SbWx.png"/></P>
+<P><img src="https://i.imgur.com/KOiDk1M.png"/></p>
+<p><img src="https://i.imgur.com/i7OChax.png"/></P> 
+<P><img src="https://i.imgur.com/bliSUHL.png"/></p>
  
  <h2>Configure Help Topics<h2/>
 <a>Admin Panel > Manage > Help Topics<a/>
@@ -103,8 +103,8 @@ Configure roles in the admin panel.
 - Equipment Request
 - Password Reset
  
-<p><img src="https://i.imgur.com/IMqpNvZ.png"/></P> 23
-<P><img src="https://i.imgur.com/V1nAwrN.png"/></p> 24
+<p><img src="https://i.imgur.com/IMqpNvZ.png"/></P>
+<P><img src="https://i.imgur.com/V1nAwrN.png"/></p>
 
 
 
