@@ -15,9 +15,9 @@ In the previous tutorial I <a href="https://github.com/AsiaPonder001/osticket-pr
 
 <h2>Main Steps<h2/>
 
-to configure roles in the admin panel.
+Configure roles in the admin panel.
 <h2>Admin Panel > Agents > Roles<h2/>
-<h2>(*NOTE: To switch between the admin and agent panel look at the top of the page. If it says Admin panel it means you are in the Agent panel. If it reads Admin panel then you are in the Agent panel.)<h2/>
+<h2>(NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)<h2/>
 
 
 <P><img src="https://i.imgur.com/9ijnXxg.png"/></P> 2
@@ -26,14 +26,16 @@ to configure roles in the admin panel.
  
 <br/>
 <P><img src="https://i.imgur.com/Dwq8VYY.png"/></p> 5
+<p><img src="https://i.imgur.com/TlOHvtv.png"/></P> 6
  
  <h2 >Configure the Departments <h2/>
 
 <a>Admin Panel > Agents > Departments > Type: System administrators for department name <a/>
  <br/>
  <br/>
-<p><img src="https://i.imgur.com/K83lOGT.png"/></P> 6
-<P><img src="https://i.imgur.com/qDKmdkB.png"/></p> 7
+
+<p><img src="https://i.imgur.com/T3gpaFW.png"/></p> also 6
+<P><img src="https://i.imgur.com/esvUrPu.png"/></p> 7
  <br/>
  <br/>
   
