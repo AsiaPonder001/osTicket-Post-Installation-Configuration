@@ -111,4 +111,4 @@ Configure roles in the admin panel.
 
 
 <br />
-Thank Your for reading!
+Thank you for reading!
