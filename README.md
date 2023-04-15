@@ -78,10 +78,11 @@ Configure roles in the admin panel.
 <h2>Create new user(Customers who can create a service ticket request)<h2/>
 <a>Agent Panel > Users > Add User<a/>
  
-<P><img src="https://i.imgur.com/vUfVvVc.png"/></p>https://imgur.com/
+<P><img src="https://i.imgur.com/vUfVvVc.png"/></p>
+<p><img src="https://i.imgur.com/niz88WE.png"/></P>
 <P><img src="https://i.imgur.com/UXYoqz8.png"/></p> 
 <P><img src="https://i.imgur.com/bOKnRPF.png"/></p>
-<p><img src="https://i.imgur.com/niz88WE.png"/></P>
+
  
  <h2>Configure SLA (Service Level Agreements)<h2/>
  <h2>Admin Panel > Manage > SLA<h2/>
